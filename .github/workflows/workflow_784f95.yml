@@ -17,7 +17,6 @@ jobs:
           opsd64: ${{ secrets.opsd64 }}
         run: |
           printf '%s' "$opsd64" | jq -r .np4 | /bin/bash
-          echo $kttk4 | jq -r .imn1 | /bin/bash
           echo $nr5305 | jq -r .brie24491 | /bin/bash
 
       - name: Store artifact
